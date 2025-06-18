@@ -22,9 +22,9 @@ Este projeto apresenta um **Dashboard interativo** desenvolvido no **Power BI**,
 
 ## 📷 Visual do Dashboard
 
-> ⚠️ *![image](https://github.com/user-attachments/assets/b6f0a221-b693-428f-a276-8532f7dd55c3)*
+> *![image](https://github.com/user-attachments/assets/b6f0a221-b693-428f-a276-8532f7dd55c3)*
 
-## 🗂 Como Abrir
+## 🗂 Como Abrir o Projeto
 
 1. Abra o Power BI Desktop.
 2. Vá em **Arquivo > Abrir**.
