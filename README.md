@@ -22,7 +22,7 @@ Este projeto apresenta um **Dashboard interativo** desenvolvido no **Power BI**,
 
 ## 📷 Visual do Dashboard
 
-> ⚠️ *Adicione aqui imagens ou GIFs do seu dashboard para melhor apresentação visual.*
+> ⚠️ *![image](https://github.com/user-attachments/assets/b6f0a221-b693-428f-a276-8532f7dd55c3)*
 
 ## 🗂 Como Abrir
 
